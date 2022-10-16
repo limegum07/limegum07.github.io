@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Releasing Not Pure Poole v0.1.0
+title: The academy I go to
 author: Songzi Vong
 tags:
 - jekyll theme
