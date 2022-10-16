@@ -9,29 +9,30 @@ toc:  true
 Welcome to *Lee jae wook's school life**! Aguest 10st is my birth day.
 {: .message }
 먼저 내 소개를 하자면 이름은 이재욱이다. 이 글을 쓰는 시점은 중3이다.
-초등학교 때부터 이야기하면 너무 길어지니 <a href="#">아주 특별했던</a> 중학교 이야기들을 해보려고 한다. *진로.* 중1때 제일 많았던 고민 중 하나이다. 과연 내가 잘하는 것이 뭘까? 주변 친구들은 왜 저리 잘하는게 구분되어 있을까? 나는 선천적으로 특출난게 없나? 라고 생각을 많이 하였다. 하지만 답은 생각보다 쉬웠다. 재능인 부분도 없잖아 있지만 그만큼 노력을 하니까 특출나게 잘하게 되는 것 이었다. 그래서 난 형을 보고 나도 코딩을 열심히 해보자는 마인드를 가지게 되었다.
+초등학교 때부터 이야기하면 너무 길어지니 <a href="#">내가 중학교에서 보며 느낀</a> 생각들을 이야기해 보려고 한다. <a href="#">진로.</a> 중1때 제일 많았던 고민 중 하나이다. 과연 내가 잘하는 것이 뭘까? 주변 친구들은 왜 저리 잘하는게 구분되어 있을까? 나는 선천적으로 특출난게 없나? 라고 생각을 많이 하였다. 하지만 답은 생각보다 쉬웠다. 재능인 부분도 없잖아 있지만 그만큼 노력을 하니까 특출나게 잘하게 되는 것 이었다. 그래서 난 형을 보고 나도 코딩을 열심히 해보자는 마인드를 가지게 되었다.
 
 > 하지만 마인드를 가진거랑 행동에 옮긴다는 것은 명확히 다르다고 저술할 수 있다. 난 마인드는 있지만 행동에 옮기지 않은 안타까운 경우이다.
 
 이것이 **화이트 해커** 라는 꿈을 가지게 된 이유이다.
 
-## Inline HTML elements
+## Grade
+학교에서 우열을 나누는 것은 별거없다. <a href="#">성적.</a> 학교를 다니는 모두에게 해당되는 말이기에 성적이라는 단어는 참 공평하면서 불공평한 중첩상태이다. 마치 [슈뢰딩거의 고양이](https://www.ksakosmos.com/post/%EC%A3%BD%EC%96%B4%EC%9E%88%EC%9C%BC%EB%A9%B4%EC%84%9C%EB%8F%84-%EC%82%B4%EC%95%84%EC%9E%88%EB%8A%94-%EA%B3%A0%EC%96%91%EC%9D%B4-%EC%8A%88%EB%A2%B0%EB%94%A9%EA%B1%B0%EC%9D%98-%EA%B3%A0%EC%96%91%EC%9D%B4)에 나오는 양자중첩 상태 같다.
+성적이 높은 학생은 성적이 낮은 학생이랑 말다툼을 하는 경우에 성적을 내세우는 경향을 종종 보고는 하였는데, 이때 성적은 높은 학생과 낮은 학생에게 둘 다 해당되는 말이여서 공평하지만 그렇다고 성적이 낮은 학생이 공부 못한다고 다른 것(체육, 기타 같은 다른 활동)까지 성적이 높은 학생보다 못하지는 않을 것이기에 불공평하다. 불공평하지만 성적처럼 상대방도 해본 공부라는 행위로 비교를 하기에 할 말이 없는 점이 안타까워 보이기도 한다.
 
-HTML defines a long list of available inline tags, a complete list of which can be found on the [Mozilla Developer Network](https://developer.mozilla.org/en-US/docs/Web/HTML/Element).
+##Subject
+- **정보**, 코딩을 잘하고 싶은 나에게 가장 `중요했던` 과목이다.
+- *일본어*, 중3인 지금 반에서 내가 `제일 잘하는` 과목이다.
+- <mark>수학</mark>, 모든 과목을 통틀어서 `제일 잘하고 싶어지는` 과목이다.
+- 역사, 내가 <abbr title="HyperText Markup Langage">포기하고 싶어지게 하는</abbr> 제일 피곤했던 `과목`이다, 하지만 한번 이해하면 포기하지 않게 되는 과목이다.
+- 한자, 제일<cite>&mdash; 쓸모없다 생각하는</cite> `과목`이라고 할 수 있다.
+- <del>도덕</del> 제일 쉬워서 3학년에도 있기를 바랬지만 밑줄쳐진 도덕처럼 중3 과목에서 사라져버렸다.
+- 기술가정 <sup>2</sup> 재밌으면 재미가 제곱이 되지만 없으면 0의 제곱같다.
 
-- **To bold text**, use `<strong>`.
-- *To italicize text*, use `<em>`.
-- <mark>To highlight</mark>, use `<mark>`.
-- Abbreviations, like <abbr title="HyperText Markup Langage">HTML</abbr> should use `<abbr>`, with an optional `title` attribute for the full phrase.
-- Citations, like <cite>&mdash; Mark Otto</cite>, should use `<cite>`.
-- <del>Deleted</del> text should use `<del>` and <ins>inserted</ins> text should use `<ins>`.
-- Superscript <sup>text</sup> uses `<sup>` and subscript <sub>text</sub> uses `<sub>`.
+제일 기억났던 과목들을 정리해봤다.
 
-Most of these elements are styled by browsers with few modifications on our part.
+## President
 
-## Footnotes
-
-Footnotes are supported as part of the Markdown syntax. Here's one in action. Clicking this number[^fn-sample_footnote] will lead you to a footnote. The syntax looks like:
+초등학교였다면 회장을 꿈도 못 꾸었지만 중학교에 들어서니 용기가 생겼다. 그래서 회장 자리에 당당히 나가보기 시작하였다. 이 숫자를 누른다면[^fn-sample_footnote] 내 친구들과 내가 회장이랑 부회장을 얼마나 하였는지 볼 수 있다:
 
 {% highlight text %}
 Clicking this number[^fn-sample_footnote]
