@@ -8,13 +8,12 @@ toc:  true
 ---
 Welcome to *Lee jae wook's school life**! Aguest 10st is my birth day.
 {: .message }
+먼저 내 소개를 하자면 이름은 이재욱이다. 이 글을 쓰는 시점은 중3이다.
+초등학교 때부터 이야기하면 너무 길어지니 <a href="#">아주 특별했던</a> 중학교 이야기들을 해보려고 한다. *진로.* 중1때 제일 많았던 고민 중 하나이다. 과연 내가 잘하는 것이 뭘까? 주변 친구들은 왜 저리 잘하는게 구분되어 있을까? 나는 선천적으로 특출난게 없나? 라고 생각을 많이 하였다. 하지만 답은 생각보다 쉬웠다. 재능인 부분도 없잖아 있지만 그만큼 노력을 하니까 특출나게 잘하게 되는 것 이었다. 그래서 난 형을 보고 나도 코딩을 열심히 해보자는 마인드를 가지게 되었다.
 
-먼저 내 소개를 하자면 이름은 이재욱이다. 이 글을 쓰는 시점은 중3인 당시이다.
-Cum sociis natoque penatibus et magnis <a href="#">dis parturient montes</a>, nascetur ridiculus mus. *Aenean eu leo quam.* Pellentesque ornare sem lacinia quam venenatis vestibulum. Sed posuere consectetur est at lobortis. Cras mattis consectetur purus sit amet fermentum.
+> 하지만 마인드를 가진거랑 행동에 옮긴다는 것은 명확히 다르다고 저술할 수 있다. 난 마인드는 있지만 행동에 옮기지 않은 안타까운 경우이다.
 
-> Curabitur blandit tempus porttitor. Nullam quis risus eget urna mollis ornare vel eu leo. Nullam id dolor id nibh ultricies vehicula ut id elit.
-
-Etiam porta **sem malesuada magna** mollis euismod. Cras mattis consectetur purus sit amet fermentum. Aenean lacinia bibendum nulla sed consectetur.
+이것이 **화이트 해커** 라는 꿈을 가지게 된 이유이다.
 
 ## Inline HTML elements
 
