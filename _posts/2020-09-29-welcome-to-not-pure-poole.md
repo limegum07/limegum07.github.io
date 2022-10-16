@@ -6,8 +6,9 @@ last_modified_at: 2022-10-16 01:08:25 +0800
 tags: [School life, Blog, Lee-jaewook]
 toc:  true
 ---
-Welcome to *Lee jae wook's school life**! Aguest 10st is my birth day.
+Welcome to Lee jae wook's school life! Aguest 10st is my birth day.
 {: .message }
+
 먼저 내 소개를 하자면 이름은 이재욱이다. 이 글을 쓰는 시점은 중3이고, 개인적인 생각이 많이 포함되어 있다.
 초등학교 때부터 이야기하면 너무 길어지니 <a href="#">내가 중학교에서 보며 느낀</a> 생각들을 이야기해 보려고 한다. <a href="#">진로.</a> 중1때 제일 많았던 고민 중 하나이다. 과연 내가 잘하는 것이 뭘까? 주변 친구들은 왜 저리 잘하는게 구분되어 있을까? 나는 선천적으로 특출난게 없나? 라고 생각을 많이 하였다. 하지만 답은 생각보다 쉬웠다. 재능인 부분도 없잖아 있지만 그만큼 노력을 하니까 특출나게 잘하게 되는 것 이었다. 그래서 난 형을 보고 나도 코딩을 열심히 해보자는 마인드를 가지게 되었다.
 
