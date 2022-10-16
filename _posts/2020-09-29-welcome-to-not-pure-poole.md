@@ -1,17 +1,15 @@
 ---
 layout: post
-title: Welcome to Lee jae wook's mind
+title: Welcome to Lee jae wook's shcool life
 date: 2007-08-10 23:18 +0800
-last_modified_at: 2020-10-01 01:08:25 +0800
+last_modified_at: 2022-10-16 01:08:25 +0800
 tags: [jekyll theme, jekyll, tutorial]
 toc:  true
 ---
-Welcome to *Lee jae wook's mind**! Aguest 10st is my birth day.
-Let's lemember this day!
+Welcome to *Lee jae wook's school life**! Aguest 10st is my birth day.
 {: .message }
 
-First, do you notice the TOC on the right side? Try to scroll down to read this post, you'll find that the TOC is always sticky in the viewport.
-
+먼저 내 소개를 하자면 이름은 이재욱이다. 이 글을 쓰는 시점은 중3인 당시이다.
 Cum sociis natoque penatibus et magnis <a href="#">dis parturient montes</a>, nascetur ridiculus mus. *Aenean eu leo quam.* Pellentesque ornare sem lacinia quam venenatis vestibulum. Sed posuere consectetur est at lobortis. Cras mattis consectetur purus sit amet fermentum.
 
 > Curabitur blandit tempus porttitor. Nullam quis risus eget urna mollis ornare vel eu leo. Nullam id dolor id nibh ultricies vehicula ut id elit.
