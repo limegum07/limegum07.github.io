@@ -32,7 +32,7 @@ Welcome to *Lee jae wook's school life**! Aguest 10st is my birth day.
 
 ## President
 
-초등학교였다면 회장을 꿈도 못 꾸었지만 중학교에 들어서니 용기가 생겼다. 그래서 회장 자리에 당당히 나가보기 시작하였다. 이 숫자를 누른다면[^fn-sample_footnote] 내 친구들과 내가 회장이랑 부회장을 얼마나 하였는지 볼 수 있다:
+초등학교였다면 회장을 꿈도 못 꾸었지만 중학교에 들어서니 용기가 생겼다. 그래서 회장 자리에 당당히 나가보기 시작하였다. 이 숫자를 누른다면[^fn-sample_footnote] 내가 회장이랑 부회장을 얼마나 하였는지 볼 수 있다:
 
 {% highlight text %}
 Clicking this number[^fn-sample_footnote]
@@ -121,45 +121,45 @@ Align to the center by adding `class="align-center"`:
 
 ![placeholder](http://placehold.it/400x200 "Medium example image"){: .align-center}
 
-### Tables
+### Stats
 
-Aenean lacinia bibendum nulla sed consectetur. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+아래의 통계는 회장, 부회장을 몇번 하였는지 표로 정리되어 있다.
 
 <table>
   <thead>
     <tr>
-      <th>Name</th>
-      <th>Upvotes</th>
-      <th>Downvotes</th>
+      <th>이름</th>
+      <th>부회장</th>
+      <th>회장</th>
     </tr>
   </thead>
   <tfoot>
     <tr>
-      <td>Totals</td>
-      <td>21</td>
-      <td>23</td>
+      <td>총합</td>
+      <td>1</td>
+      <td>3</td>
     </tr>
   </tfoot>
   <tbody>
     <tr>
-      <td>Alice</td>
-      <td>10</td>
-      <td>11</td>
+      <td>중1</td>
+      <td>0</td>
+      <td>1</td>
     </tr>
     <tr>
-      <td>Bob</td>
-      <td>4</td>
-      <td>3</td>
+      <td>중2</td>
+      <td>1</td>
+      <td>1</td>
     </tr>
     <tr>
-      <td>Charlie</td>
-      <td>7</td>
-      <td>9</td>
+      <td>중3</td>
+      <td>0</td>
+      <td>1</td>
     </tr>
   </tbody>
 </table>
 
-Nullam id dolor id nibh ultricies vehicula ut id elit. Sed posuere consectetur est at lobortis. Nullam quis risus eget urna mollis ornare vel eu leo.
+부회장 1번에 회장 3번이니 6번의 기회중에 4번을 잡았다고 말할 수 있겠다.
 
 -----
 
