@@ -8,7 +8,7 @@ toc:  true
 ---
 Welcome to *Lee jae wook's school life**! Aguest 10st is my birth day.
 {: .message }
-먼저 내 소개를 하자면 이름은 이재욱이다. 이 글을 쓰는 시점은 중3이다.
+먼저 내 소개를 하자면 이름은 이재욱이다. 이 글을 쓰는 시점은 중3이고, 개인적인 생각이 많이 포함되어 있다.
 초등학교 때부터 이야기하면 너무 길어지니 <a href="#">내가 중학교에서 보며 느낀</a> 생각들을 이야기해 보려고 한다. <a href="#">진로.</a> 중1때 제일 많았던 고민 중 하나이다. 과연 내가 잘하는 것이 뭘까? 주변 친구들은 왜 저리 잘하는게 구분되어 있을까? 나는 선천적으로 특출난게 없나? 라고 생각을 많이 하였다. 하지만 답은 생각보다 쉬웠다. 재능인 부분도 없잖아 있지만 그만큼 노력을 하니까 특출나게 잘하게 되는 것 이었다. 그래서 난 형을 보고 나도 코딩을 열심히 해보자는 마인드를 가지게 되었다.
 
 > 하지만 마인드를 가진거랑 행동에 옮긴다는 것은 명확히 다르다고 저술할 수 있다. 난 마인드는 있지만 행동에 옮기지 않은 안타까운 경우이다.
@@ -67,45 +67,34 @@ Welcome to *Lee jae wook's school life**! Aguest 10st is my birth day.
 
 그냥 커플 다 망했으면 좋겠다.
   
-### Lists
-Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Aenean lacinia bibendum nulla sed consectetur. Etiam porta sem malesuada magna mollis euismod. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.
+### Friend
+신뢰가 바탕이 되어야 친구라고 생각한다. 내가 만약 친구를 못 믿고, 친구도 나를 못 믿는다면 그건 친구라고 정의를 할 수 있을까? 나는 아니라고 생각한다. 내가 생각하는 친구의 조건 3가지를 이야기 해볼까 한다.
 
-- Praesent commodo cursus magna, vel scelerisque nisl consectetur et.
-- Donec id elit non mi porta gravida at eget metus.
-- Nulla vitae elit libero, a pharetra augue.
+- 입이 무거워야한다.(신뢰가 있어야 한다)
+- 나한테 도움이 되는 존재여야 한다.
+- 같이 있으면 편안함이 느껴져야 한다.
 
-Donec ullamcorper nulla non metus auctor fringilla. Nulla vitae elit libero, a pharetra augue.
+이 3개의 조건이 조화로워야 친구라는 존재가 만들어진다고 생각한다. 저기서 순위를 매기자면:
 
-1. Vestibulum id ligula porta felis euismod semper.
-2. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-3. Maecenas sed diam eget risus varius blandit sit amet non magna.
+1위. 입이 무거워야한다.(신뢰가 있어야 한다)
+2위. 같이 있으면 편안함이 느껴져야 한다.
+3위. 나한테 도움이 되는 존재여야 한다.
 
-Cras mattis consectetur purus sit amet fermentum. Sed posuere consectetur est at lobortis.
+이렇게 순위를 매길 수 있겠다.
 
+##School rules
 <dl>
-  <dt>HyperText Markup Language (HTML)</dt>
-  <dd>The language used to describe and define the content of a Web page</dd>
+  <dt>Laptop</dt>
+  <dd>나도 광섭이라는 친구처럼 노트북 가져가서 코딩하려 했는데 우리학교는 안된다고 한다.</dd>
 
-  <dt>Cascading Style Sheets (CSS)</dt>
-  <dd>Used to describe the appearance of Web content</dd>
+  <dt>Plain clothes</dt>
+  <dd>교복 위에 조끼 같은 옷은 안되고, 무조건 지퍼가 있는 옷이어야 된다고 한다.</dd>
 
-  <dt>JavaScript (JS)</dt>
-  <dd>The programming language used to build advanced Web sites and applications</dd>
+  <dt>Elevator</dt>
+  <dd>기초 상식이긴 하지만 학생이 엘레베이터를 타면 안된다고 한다.</dd>
 </dl>
 
-Integer posuere erat a ante venenatis dapibus posuere velit aliquet. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Nullam quis risus eget urna mollis ornare vel eu leo.
-
-### Images
-
-Quisque consequat sapien eget quam rhoncus, sit amet laoreet diam tempus. Aliquam aliquam metus erat, a pulvinar turpis suscipit at.
-
-![placeholder](http://placehold.it/800x400 "Large example image")
-![placeholder](http://placehold.it/400x200 "Medium example image")
-![placeholder](http://placehold.it/200x200 "Small example image")
-
-Align to the center by adding `class="align-center"`:
-
-![placeholder](http://placehold.it/400x200 "Medium example image"){: .align-center}
+증포중학교 규칙에 대하여 이야기 해보았다.
 
 ### Stats
 
@@ -149,6 +138,6 @@ Align to the center by adding `class="align-center"`:
 
 -----
 
-Want to see something else added? <a href="https://github.com/vszhub/not-pure-poole/issues/new">Open an issue.</a>
+너도 블로그를 만들고 싶니?<a href="[https://github.com/vszhub/not-pure-poole/issues/new](http://jekyllthemes.org/)">Open an Jeykill.</a>
 
-[^fn-sample_footnote]: Handy! Now click the return link to go back.
+[^fn-sample_footnote]: 이봐! 이걸 누르면 전에 있던 사이트로 돌아갈 수 있어.
