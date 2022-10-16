@@ -23,7 +23,7 @@ Welcome to *Lee jae wook's school life**! Aguest 10st is my birth day.
 - **정보**, 코딩을 잘하고 싶은 나에게 가장 <a href="#">중요했던</a> 과목이다.
 - *일본어*, 중3인 지금 반에서 내가 <a href="#">제일 잘하는</a> 과목이다.
 - <mark>수학</mark>, 모든 과목을 통틀어서 <a href="#">제일 잘하고 싶어지는</a> 과목이다.
-- 역사, 내가 <abbr title="HyperText Markup Langage">포기하고 싶어지게 하는</abbr> <a href="#">제일 피곤했던</a>과목이다, 하지만 한번 이해하면 포기하지 않게 되는 과목이다.
+- 역사, 내가 <abbr title="HyperText Markup Langage">포기하고 싶어지게 하는 제일 </abbr> <a href="#">피곤했던</a>과목이다, 하지만 한번 이해하면 포기하지 않게 되는 과목이다.
 - 한자, 제일 <abbr title="HyperText Markup Langage">쓸모없다 생각하는</abbr> 과목이라고 할 수 있다.
 - 도덕, <del>제일 날로먹는 과목이라서 3학년에도 있기를 바랬지만<del/> 중3 과목에서 사라져버렸다.
 - 기술가정, <sup>2</sup> 재밌으면 재미가 <a href="#">제곱</a>이 되지만 없으면 0의 제곱같다.
@@ -35,24 +35,19 @@ Welcome to *Lee jae wook's school life**! Aguest 10st is my birth day.
 초등학교였다면 회장을 꿈도 못 꾸었지만 중학교에 들어서니 용기가 생겼다. 그래서 회장 자리에 당당히 나가보기 시작하였다. 이 숫자를 누른다면[^fn-sample_footnote] 내가 회장이랑 부회장을 얼마나 하였는지 볼 수 있다:
 
 {% highlight text %}
-Clicking this number[^fn-sample_footnote]
+회장이 되려면 어떻게 해야할까?
 {% endhighlight %}
 
-Each footnote needs the `^fn-` prefix and a unique ID to be referenced for the footnoted content. The syntax for that list looks something like this:
+회장을 해보고 싶어하는 사람은 생각보다 많다. 하지만 그들이 회장선거에 나오지 않는 이유는 다음과 같다.:
 
 {% highlight text %}
-[^fn-sample_footnote]: Handy! Now click the return link to go back.
+나보다 인기가 많은 사람이 나온다. 자신감이 없다. 관심이 없다. 여자후보 1명 남자후보 1명인 상황에 내가 나가면 표를 갈리게 해서 욕 먹을 것 같다.
 {% endhighlight %}
 
-You can place the footnoted content wherever you like. Markdown parsers should properly place it at the bottom of the post.
+크게는 이 4가지로 구분이 된다고 생각한다. 보통은 관심이 없다가 더 많다고 본다. 하지만 마지막 표 갈라질까봐 나오지 않는 경우가 제일 흔하다. 왜냐면 보통 회장선거는 인기 많은 사람들이 나온다. 근데 다른 사람이 나와서 표를 갈리게 하려고 하면 다른 애들이 표 갈리게 하지말라면서 압박을 주는 경우가 흔하기 때문이다. 물론 이러지 않는 반도 있겠지만 내 주관적인 견해로 이 글을 작성하는 것이니 너무 불편하게 보지는 않았으면 한다.
 
-## Heading
-
-Vivamus sagittis lacus vel augue rutrum faucibus dolor auctor. Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. Morbi leo risus, porta ac consectetur ac, vestibulum at eros.
-
-### Code
-
-Inline code is available with the `<code>` element. Snippets of multiple lines of code are supported through Rouge. Longer lines will automatically scroll horizontally when needed. You may also use code fencing (triple backticks) for rendering code.
+## Love
+이 주제는 굉장히 말하기가 조심스럽다. 학교에서 하는 연애는 참 신비롭다는 말을 전하면서 이야기를 해보려고 한다. 먼저 흔히 나뉘는 공개 연애와 비밀 연애가 있겠다. 공개연애는 다른이들의 시선과 언행을 감당할 자신감이 있는 애들만 하는거라고 생각한다. 왜냐면 커플끼리 같이 있기만 해도 소리를 지르거나 흐뭇하게 본다거나 어떤 행동을 요구하기도 한다. 예를 들면 여친이 춥다하면 남친인 애한테 담요를 가서 덮어주라고 한다던지 말이다. 여기까지 들으면 비밀 연애가 더 좋아보이지만 그것도 아니다. 비밀 연애는 참 어려운 주제이기도 하다. 잘하면 드라마에 나오는 것처럼 서로 즐거워하지만 나는 절대로 그런 경우를 보지 못했다. 왜냐면 서로의 가치관과 기대치가 다르다. 내 주변을 보면 서로 가치관과 기대치가 달라서 헤어진 경우가 넘쳐난다. 그리고 비밀 연애를 하는 애들을 보면 딱 봐도 티가 난다. 갑자기 친하게 지내던 애들이 서로 어색해져있는데 묘한기류가 흐르는게 보이기 때문이다. 말로만 비밀연애지 공개 연애와 흡사하다. 그냥 커플 다 망했으면 좋겠다.
 
 {% highlight js %}
 // Example can be run directly in your JavaScript console
