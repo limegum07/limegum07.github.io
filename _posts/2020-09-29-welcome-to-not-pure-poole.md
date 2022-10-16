@@ -47,36 +47,27 @@ Welcome to *Lee jae wook's school life**! Aguest 10st is my birth day.
 크게는 이 4가지로 구분이 된다고 생각한다. 보통은 관심이 없다가 더 많다고 본다. 하지만 마지막 표 갈라질까봐 나오지 않는 경우가 제일 흔하다. 왜냐면 보통 회장선거는 인기 많은 사람들이 나온다. 근데 다른 사람이 나와서 표를 갈리게 하려고 하면 다른 애들이 표 갈리게 하지말라면서 압박을 주는 경우가 흔하기 때문이다. 물론 이러지 않는 반도 있겠지만 내 주관적인 견해로 이 글을 작성하는 것이니 너무 불편하게 보지는 않았으면 한다.
 
 ## Love
-이 주제는 굉장히 말하기가 조심스럽다. 학교에서 하는 연애는 참 신비롭다는 말을 전하면서 이야기를 해보려고 한다. 먼저 흔히 나뉘는 공개 연애와 비밀 연애가 있겠다. 공개연애는 다른이들의 시선과 언행을 감당할 자신감이 있는 애들만 하는거라고 생각한다. 왜냐면 커플끼리 같이 있기만 해도 소리를 지르거나 흐뭇하게 본다거나 어떤 행동을 요구하기도 한다. 예를 들면 여친이 춥다하면 남친인 애한테 담요를 가서 덮어주라고 한다던지 말이다. 여기까지 들으면 비밀 연애가 더 좋아보이지만 그것도 아니다. 비밀 연애는 참 어려운 주제이기도 하다. 잘하면 드라마에 나오는 것처럼 서로 즐거워하지만 나는 절대로 그런 경우를 보지 못했다. 왜냐면 서로의 가치관과 기대치가 다르다. 내 주변을 보면 서로 가치관과 기대치가 달라서 헤어진 경우가 넘쳐난다. 그리고 비밀 연애를 하는 애들을 보면 딱 봐도 티가 난다. 갑자기 친하게 지내던 애들이 서로 어색해져있는데 묘한기류가 흐르는게 보이기 때문이다. 말로만 비밀연애지 공개 연애와 흡사하다. 그냥 커플 다 망했으면 좋겠다.
+이 주제는 굉장히 말하기가 조심스럽다. 학교에서 하는 연애는 참 신비롭다는 말을 전하면서 이야기를 해보려고 한다. 먼저 흔히 나뉘는 공개 연애와 비밀 연애가 있겠다.
 
 {% highlight js %}
-// Example can be run directly in your JavaScript console
+// 공개 연애
 
-// Create a function that takes two arguments and returns the sum of those arguments
-var adder = new Function("a", "b", "return a + b");
+공개연애는 다른이들의 시선과 언행을 감당할 자신감이 있는 애들만 하는거라고 생각한다. 왜냐면 커플끼리 같이 있기만 해도 소리를 지르거나 흐뭇하게 본다거나 어떤 행동을 요구하기도 한다. 예를 들면 여친이 춥다하면 남친인 애한테 담요를 가서 덮어주라고 한다던지 말이다.
 
-// Call the function
-adder(2, 6);
-// > 8
 {% endhighlight %}
 
-You may also optionally show code snippets with line numbers. Add `linenos` to the Rouge tags.
+여기까지 보면 비밀 연애가 좋겠네 하겠지만 마냥 그렇지는 않다.
 
 {% highlight js linenos %}
-// Example can be run directly in your JavaScript console
-
-// Create a function that takes two arguments and returns the sum of those arguments
-var adder = new Function("a", "b", "return a + b");
-
-// Call the function
-adder(2, 6);
-// > 8
+// 비밀 연애
+  
+비밀 연애는 참 어려운 주제이기도 하다. 잘하면 드라마에 나오는 것처럼 서로 즐거워하지만 나는 절대로 그런 경우를 보지 못했다. 왜냐면 서로의 가치관과 기대치가 다르다. 내 주변을 보면 서로 가치관과 기대치가 달라서 헤어진 경우가 넘쳐난다. 그리고 비밀 연애를 하는 애들을 보면 딱 봐도 티가 난다. 갑자기 친하게 지내던 애들이 서로 어색해져있는데 묘한기류가 흐르는게 보이기 때문이다. 말로만 비밀연애지 공개 연애와 흡사하다.
+  
 {% endhighlight %}
 
-Aenean lacinia bibendum nulla sed consectetur. Etiam porta sem malesuada magna mollis euismod. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa.
-
+그냥 커플 다 망했으면 좋겠다.
+  
 ### Lists
-
 Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Aenean lacinia bibendum nulla sed consectetur. Etiam porta sem malesuada magna mollis euismod. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.
 
 - Praesent commodo cursus magna, vel scelerisque nisl consectetur et.
