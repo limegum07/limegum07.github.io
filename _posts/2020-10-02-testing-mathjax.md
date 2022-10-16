@@ -1,17 +1,11 @@
 ---
 layout: post
-title: guitar
-tags: mathjax
+title: my favortie thing
+tags: Happy
 math: true
 date: 2021-10-02 15:32 +0800
 ---
-Not Pure Poole supports [MathJax](https://www.mathjax.org/). You can enable it on a page by setting `math: true` in the front matter.
-
-An inline math: \\\(E=mc^2\\\).
-
-A display math:
-
-$$
-i\hbar \frac{\partial \Psi}{\partial t} = -\frac{\hbar^2}{2m}
-\frac{\partial^2 \Psi}{\partial x^2} + V \Psi
-$$
+1.메론소다를 좋아한다. [Click](https://www.10000recipe.com/recipe/view.html?seq=6914235).
+2.유니콘 프라페를 좋아한다. [Click](https://destiny1995.tistory.com/m/49).
+3.망고빙수를 좋아한다. [Click](https://smartdata.tistory.com/m/124).
+4.1100100000000100 1100010111101100 1100111001011100를 좋아한다. [Click]().
