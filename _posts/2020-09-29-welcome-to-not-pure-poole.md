@@ -3,7 +3,7 @@ layout: post
 title: Welcome to Lee jae wook's shcool life
 date: 2007-08-10 23:18 +0800
 last_modified_at: 2022-10-16 01:08:25 +0800
-tags: [jekyll theme, jekyll, tutorial]
+tags: [School life, Blog, Lee-jaewook]
 toc:  true
 ---
 Welcome to *Lee jae wook's school life**! Aguest 10st is my birth day.
